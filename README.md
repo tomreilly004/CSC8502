@@ -2,6 +2,8 @@
 Graphics Coursework 
 Graphics Coursework CSC8502
 
+https://youtu.be/R2xukulwtlg
+
 To control camera:
 WASD to control the camera. Use shift to move up and space to go down.
 Press 1 for first camera position; Press 2 for second camera position; Press 3 for third camera.
